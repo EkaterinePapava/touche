@@ -1,0 +1,242 @@
+# Georgian translation for com.github.joseexposito.touche.
+# Copyright (C) 2026 com.github.joseexposito.touche authors.
+# This file is distributed under the same license as the com.github.joseexposito.touche package.
+# Ekaterine Papava <papava.e@gtu.ge>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.joseexposito.touche 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/JoseExposito/touche/issues\n"
+"POT-Creation-Date: 2020-10-14 19:00+0200\n"
+"PO-Revision-Date: 2026-02-05 18:08+0100\n"
+"Last-Translator: Ekaterine Papava <papava.e@gtu.ge>\n"
+"Language-Team: Georgian <(nothing)>\n"
+"Language: ka\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+msgid "Swipe"
+msgstr "გაუსვით"
+
+msgid "Pinch"
+msgstr "ჩქმეტა"
+
+msgid "Tap"
+msgstr "დატყაპუნება"
+
+#, javascript-format
+msgid "Swipe with %d fingers"
+msgstr "გასმა %d თითით"
+
+#, javascript-format
+msgid "Pinch with %d fingers"
+msgstr "ჩქმეტა %d თითით"
+
+#, javascript-format
+msgid "Tap with %d fingers"
+msgstr "დატყაპუნება %d თითით"
+
+msgid "Up"
+msgstr "მაღლა"
+
+msgid "Down"
+msgstr "დაბლა"
+
+msgid "Left"
+msgstr "მარცხნივ"
+
+msgid "Right"
+msgstr "მარჯვნივ"
+
+msgid "In"
+msgstr "შიგნით"
+
+msgid "Out"
+msgstr "გარეთ"
+
+msgid "Unknown"
+msgstr "უცნობი"
+
+msgid "Maximize or restore a window"
+msgstr "ფანჯრის მთელ ეკრანზე გაშლა, ან აღდგენა"
+
+msgid "Minimize a window"
+msgstr "ფანჯრის ჩაკეცვა"
+
+msgid "Tile a window"
+msgstr "ფანჯრის მოზაიკა"
+
+msgid "Toggle fullscreen mode"
+msgstr "სრული ეკრანის რეჟიმზე გადასვლის გადართვა"
+
+msgid "Close a window"
+msgstr "ფანჯრის დახურვა"
+
+msgid "Switch desktop"
+msgstr "სამუშაო მაგიდის გადართვა"
+
+msgid "Show desktop"
+msgstr "სამუშაო მაგიდის ჩვენება"
+
+msgid "Keyboard shortcut"
+msgstr "კლავიატურის მალსახმობი"
+
+msgid "Execute a command"
+msgstr "ბრძანების შესრულება"
+
+msgid "Mouse click"
+msgstr "თაგუნას წკაპი"
+
+msgid "Unknown action"
+msgstr "უცნობი ქმედება"
+
+msgid "Touchégg is not installed"
+msgstr "Touchégg დაყენებული არაა"
+
+msgid "It looks like Touchégg is not installed, let's start by downloading it"
+msgstr "როგორც ჩანს, Touchégg დაყენებული არაა. დაიწყეთ მისი გადმოწერით"
+
+msgid "Download Touchégg"
+msgstr "Touchégg-ის გადმოწერა"
+
+msgid "I just installed it"
+msgstr "ახლა დავაყენე"
+
+msgid "Global gestures"
+msgstr "გლობალური ჟესტები"
+
+msgid "Add new application"
+msgstr "ახალი აპლიკაციის დამატება"
+
+msgid "Remove the selected application"
+msgstr "დაყენებული აპლიკაციის წაშლა"
+
+msgid "Only available on touchscreens"
+msgstr "მხოლოდ ხელმისაწვდომია სენსორულ ეკრანებზე"
+
+msgid ""
+"Tap gestures are only available on touchscreens. Tapping on a touchpad is "
+"not available"
+msgstr ""
+"დატყაპუნების ჟესტები, მხოლოდ, სენსორულ ეკრანზეა ხელმისაწვდომი. თაჩპედზე "
+"დატყაპუნება ხელმისაწვდომი არაა"
+
+msgid "Direction:"
+msgstr "მიმართულება:"
+
+msgid "Tile window to the left half of the screen"
+msgstr "ფანჯრის მოზაიკა ეკრანის მარცხენა ნახევარში"
+
+msgid "Tile window to the right half of the screen"
+msgstr "ფანჯრის მოზაიკა ეკრანის მარჯვენა ნახევარში"
+
+msgid "Command:"
+msgstr "ბრძანება:"
+
+msgid "Repeat command:"
+msgstr "ბრძანების გამეორება:"
+
+msgid "Execute on:"
+msgstr "გაშვების დრო:"
+
+msgid "Gesture begin"
+msgstr "ჟესტის დასაწყისი"
+
+msgid "Gesture end"
+msgstr "ჟესტის დასასრული"
+
+msgid "Gesture begin and end"
+msgstr "ჟესტის დასაწყისი და დასასრული"
+
+msgid "Opposite command:"
+msgstr "საპირისპირო ბრძანება:"
+
+msgid "Run this command when the gesture goes in the opposite direction"
+msgstr "ამ ბრძანების გაშვება, როცა ჟესტი საპირისპირო მიმართულებით მიდის"
+
+msgid "Modifiers:"
+msgstr "მოდიფიკატორების:"
+
+msgid "Keys:"
+msgstr "გასაღებები:"
+
+msgid "Opposite keys:"
+msgstr "საპირისპირო ღილაკები:"
+
+msgid "Use this keys when the gesture goes in the opposite direction"
+msgstr "ამ ღილაკების გამოყენება, როცა ჟესტი საპირისპირო მხარეს მიდის"
+
+msgid "Mouse button:"
+msgstr "თაგუნას ღილაკი:"
+
+msgid "Left click"
+msgstr "მარცხენა-წკაპი"
+
+msgid "Right click"
+msgstr "მარჯვენა წკაპი"
+
+msgid "Middle click"
+msgstr "შუა-წკაპი"
+
+msgid "Add application"
+msgstr "პროგრამის დამატება"
+
+msgid "Add gestures for an application. Click on its window"
+msgstr "დაამატეთ ჟესტები აპლიკაციისთვის. დააწკაპუნეთ მის ფანჯარაზე"
+
+msgid "Used by GNOME"
+msgstr "გამოიყენება GNOME-ის მიერ"
+
+msgid "Arrow up"
+msgstr "ისარი მაღლა"
+
+msgid "Arrow down"
+msgstr "ისარი დაბლა"
+
+msgid "Arrow left"
+msgstr "ისარი მარცხნივ"
+
+msgid "Arrow right"
+msgstr "ისარი მარჯვნივ"
+
+msgid "Maximize a window"
+msgstr "ფანჯრის გადიდება"
+
+msgid "Restore a window"
+msgstr "ფანჯრის აღდგენა"
+
+msgid "Hide desktop"
+msgstr "სამუშაო მაგიდის დამალვა"
+
+msgid "Without animation"
+msgstr "ანიმაციის გარეშე"
+
+msgid "Animation:"
+msgstr "ანიმაცია:"
+
+msgid "Click here to add shortcut"
+msgstr "დააწკაპუნეთ მალსახმობის დასამატებლად"
+
+msgid "Shortcut:"
+msgstr "მალსახმობი:"
+
+msgid "Applications"
+msgstr "აპლიკაციები"
+
+msgid "Back"
+msgstr "უკან"
+
+msgid "Forward"
+msgstr "წინ"
+
+msgid "Using Wayland"
+msgstr "Wayland-ის გამოყენებით"
+
+msgid ""
+"Touché and Touchégg are designed to work on X11. Some actions might or might "
+"not work on Wayland."
+msgstr ""
+"Touché და Touchégg განკუთვნილია X11-ზე სამუშაოდ. ზოგიერთმა ქმედებამ, "
+"შეიძლება, Wayland-ზე არ იმუშაოს."
